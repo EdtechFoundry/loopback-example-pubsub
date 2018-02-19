@@ -13,7 +13,7 @@
     "engine.io": "^1.5.1",
     "errorhandler": "^1.1.1",
     "loopback": "^2.8.0",
-    "loopback-boot": "^2.4.0",
+    "loopback-boot": "^3.0.0",
     "loopback-datasource-juggler": "^2.7.0",
     "primus": "2.4.12",
     "serve-favicon": "^2.0.1",
